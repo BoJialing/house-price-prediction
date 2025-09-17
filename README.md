@@ -145,4 +145,4 @@ jupyter>=1.0.0
 **Jialing Bo**  
 Data Science Graduate Student | National University of Singapore  
 Email: bojialing@gmail.com  
-LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+LinkedIn: [Connect with me]([https://www.linkedin.com/in/jialing-bo-a28112236/])
