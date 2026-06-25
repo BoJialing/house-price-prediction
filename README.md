@@ -13,7 +13,7 @@ This project tackles house price prediction using a dataset of 9,200 residential
 
 ## 🔧 My Contributions
 
-**Primary Role: Feature Engineering Lead & EDA Specialist**
+** Primary Role: Feature Engineering & EDA **
 
 ### Exploratory Data Analysis
 - Conducted comprehensive statistical analysis of 9,200 property records
