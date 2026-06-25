@@ -139,10 +139,3 @@ seaborn>=0.11.0
 xgboost>=1.5.0
 jupyter>=1.0.0
 ```
-
-## 📧 Contact
-
-**Jialing Bo**  
-Data Science Graduate Student | National University of Singapore  
-Email: bojialing@gmail.com  
-LinkedIn: [Connect with me](https://www.linkedin.com/in/jialing-bo-a28112236/)
